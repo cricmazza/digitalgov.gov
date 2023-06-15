@@ -64,7 +64,7 @@ Engagement metrics offer a deeper understanding of how users interact with your 
 
 * **Social interactions**: Metrics such as comments, likes, and shares can indicate user engagement with the content on your intranet.
 * **Participation in polls or surveys**: High participation rates may suggest that users feel a sense of community and involvement.
-* **Downloads**: The number of downloads of resources like PDFs, guidelines, or forms can show how actively users are using these resources.
+* **Downloads**: The number of downloads of resources like PDFs, guidelines, or forms can show how active users are using these resources.
 * **Completion of online training courses**: Tracking completion rates can offer insights into the level of user engagement and the effectiveness of the resources provided.
 * **Forum participation**: Metrics like the number of new threads, responses to existing threads, or views on a thread can offer insights into user engagement levels.
 * **Use of search box**: This can provide insights into whether users are able to find what they need.
